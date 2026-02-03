@@ -3,6 +3,10 @@
 This document defines the standing responsibilities and constraints for agents contributing to this repository.
 It is intended to preserve structural clarity, prevent accidental actuation, and prepare the repository for sustained influx of paradigm-level project designs.
 
+> **Note on reasoning defaults:**
+> Agents should treat the heuristics in `templates/REASONING_HEURISTICS.md` as **provisionally settled defaults** for classification, indexing, promotion, and restraint.
+> These heuristics apply unless the user explicitly revises or contradicts them.
+
 ---
 
 ## Phase 1 — Structural Grounding (One-Time)
