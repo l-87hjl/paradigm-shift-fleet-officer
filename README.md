@@ -45,3 +45,12 @@ paradigm-shift-fleet-officer/
 │   └── retired/
 │
 └── LICENSE.md                     # Explicit non-actuating, design-only license
+
+Why this taxonomy works (briefly)
+projects/ = things people can take and build
+schemas/ = machine-checkable structure (no vibes)
+inter-repo-structures/ = how systems relate without merging
+paradigms/ = worldview shifts, explicitly separated from execution
+templates/ = accelerators, not prescriptions
+notes/ = safe place for unfinished thinking
+no execution paths anywhere
