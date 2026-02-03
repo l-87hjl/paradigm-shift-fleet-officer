@@ -1,14 +1,11 @@
-# Project Intent
+# Intent Declaration
 
-## What This Project Is
-Describe the design intent in one or two paragraphs.
-Focus on the *conceptual contribution* this project makes.
+This project is **design-only**.
 
-## What This Project Is Not
-Explicitly state what this project refuses to become.
-Examples:
-- Not an implementation
-- Not a governance authority
-- Not a reference deployment
+It does not:
+- grant authority
+- execute actions
+- deploy systems
+- modify external repositories
 
-This file exists to prevent scope creep and implied authority.
+All implementation decisions and responsibility rest with the user who checks out and applies this design elsewhere.
