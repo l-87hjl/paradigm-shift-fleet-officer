@@ -1,18 +1,16 @@
-# Project Template
+# Project Title
+
+## Summary
+One-paragraph description of the paradigm or system being designed.
 
 ## Problem
-Describe the problem space this project addresses.
-Focus on *why* the problem exists, not how to solve it.
+What coordination, governance, or architectural problem this project addresses.
 
 ## Scope
-Define what is explicitly in scope for this design.
-Use boundaries, not aspirations.
+What this project explicitly covers.
 
 ## Non-Goals
-List what this project intentionally does **not** attempt to do.
-This section is required and should be explicit.
+What this project deliberately does **not** attempt to solve.
 
----
-
-This project is **design-only**.
-It does not contain executable code, deployment instructions, or operational authority.
+## Relationship to Other Projects
+Optional references to related designs in this repository.
